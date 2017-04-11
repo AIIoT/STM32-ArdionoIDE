@@ -26,7 +26,7 @@ https://github.com/rogerclarkmelbourne/Arduino_STM32/
 We also need to put the jumper from BOOT0 to 1 (2 pin next to reset)
 To make our board booted in code upload mode via serial port.
 
-***Bootloader booting:***
+***Uploading bootloader:***
 In the folder with necessary files (bootloader), click the "shift" and "PPM" (right mouse button)
 And select "open the command window here"
 
