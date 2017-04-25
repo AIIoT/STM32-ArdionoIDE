@@ -5,8 +5,9 @@ ECHO Uploading STM32duino-bootloader for STM32F103C8T6
 ECHO Bin file: generic_boot20_pc13.bin
 ECHO Created by: AIIoT site: http://aiiot.c0.pl/
 ECHO.
-ECHO Connect UART converter, RX do A9 i TX do A10 do not forget about the power supply.
 ECHO Turn jumper BOOT0 on 1 (2 jumper next pin reset) this is the mode of loading code through the serial port.
+ECHO Connect UART converter, RX do A9 i TX do A10 do not forget about the power supply.
+ECHO If you first plug in the power supply and then turn on the jumper, click reset.
 ECHO.
 ECHO Select a port COM 
 ECHO A COM1 
