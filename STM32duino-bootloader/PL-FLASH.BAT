@@ -5,8 +5,9 @@ ECHO Wgrywanie STM32duino-bootloader dla STM32F103C8T6
 ECHO plik bin: generic_boot20_pc13.bin
 ECHO Stworzone przez: AIIoT strona: http://aiiot.c0.pl/
 ECHO.
-ECHO Podlacz konwerter Uart, RX do A9 i TX do A10 nie zapomnij o zasilaniu.
 ECHO Przelacz zworke BOOT0 na 1 (2 zworka od pinu reset) jes to trybie wgrywania kodu przez port szeregowy.
+ECHO Podlacz konwerter Uart, RX do A9 i TX do A10 GND do GND nie zapomnij o zasilaniu.
+ECHO Jesli najpierw podlaczyles zasilania a pozniej przelaczyles zworke, kliknij reset.
 ECHO.
 ECHO Wybierz port COM 
 ECHO A COM1 
