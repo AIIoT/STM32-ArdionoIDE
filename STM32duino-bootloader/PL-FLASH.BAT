@@ -1,5 +1,5 @@
 @Echo Off
-title stm32flash STM32duino-bootloader 
+title stm32flash: STM32duino-bootloader Flasher - Napisane przez AIIoT 
 ECHO.
 ECHO Wgrywanie STM32duino-bootloader dla STM32F103C8T6 
 ECHO plik bin: generic_boot20_pc13.bin
