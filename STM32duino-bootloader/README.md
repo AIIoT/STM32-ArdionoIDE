@@ -17,7 +17,7 @@ https://sourceforge.net/projects/stm32flash/
 * Latest drivers:
 https://github.com/rogerclarkmelbourne/Arduino_STM32/
 
-***Connection STM with converter:***
+***Connection STM32 with converter:***
 * Power to 5V
 * Gnd to gnd
 * RX to A9
